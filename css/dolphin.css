@@ -23,7 +23,7 @@ html {
     position: absolute;
     top: 212px;
     right: 300;
-    transform: rotate()
+    transform: rotate(0.5turn)
   }
 }
 
