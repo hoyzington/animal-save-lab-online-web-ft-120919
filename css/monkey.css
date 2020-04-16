@@ -8,15 +8,7 @@ html {
   right: 120px;
 }
 
-@media only screen and (min-width: 425px) and (max-width: 1220px) {
-  #monkey {
-    position: absolute;
-    top: -60px;
-    right: 120px;
-  }
-}
-
-/*@media only screen and (min-width: 406px) {
+/*@media only screen and (min-width: 425px) and (max-width: 1220px) {
   #monkey {
     position: absolute;
     top: -60px;
