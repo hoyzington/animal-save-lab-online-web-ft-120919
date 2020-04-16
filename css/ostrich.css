@@ -8,11 +8,11 @@ html {
   right: 0;
 }
 
-/*media only screen and (max-width: 1350px) {
+media only screen and (max-width: 1350px) {
   #ostrich {
   position: absolute;
   top: -65px;
   right: 0;
-}*/
+}
 }
 
