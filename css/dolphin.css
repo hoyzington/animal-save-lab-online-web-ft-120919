@@ -23,7 +23,7 @@ html {
     position: absolute;
     top: 212px;
     right: 300px;
-    transform: rotate(0.75 turn);
+    transform: rotate(0.75turn);
   }
 }
 
@@ -32,7 +32,7 @@ html {
     position: absolute;
     top: 25px;
     right: 300px;
-    transform: rotate(0.5 turn);
+    transform: rotate(0.5turn);
   }
 }
 
@@ -41,6 +41,6 @@ html {
     position: absolute;
     top: 212px;
     right: 300px;
-    transform: rotate(0.25 turn);
+    transform: rotate(0.25turn);
   }
 }
