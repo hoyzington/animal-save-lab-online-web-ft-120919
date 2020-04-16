@@ -27,7 +27,7 @@ html {
   }
 }
 
-@media only screen and (min-width: 950px) and (max-width: 1349px) {
+@media only screen and (min-width: 975px) and (max-width: 1349px) {
   #dolphin {
     position: absolute;
     top: 25px;
@@ -36,7 +36,7 @@ html {
   }
 }
 
-@media only screen and (min-width: 900px) and (max-width: 949px) {
+@media only screen and (min-width: 900px) and (max-width: 974px) {
   #dolphin {
     position: absolute;
     top: 212px;
