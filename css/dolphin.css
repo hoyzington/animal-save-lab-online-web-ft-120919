@@ -32,7 +32,7 @@ html {
     position: absolute;
     top: 25px;
     right: 300px;
-    transform: rotate()
+    transform: rotate(25%)
   }
 }
 
