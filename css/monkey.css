@@ -15,3 +15,11 @@ html {
     right: 120px;
   }
 }
+
+/*@media only screen and (min-width: 406px) {
+  #monkey {
+    position: absolute;
+    top: -60px;
+    right: 120px;
+  }
+}*/
