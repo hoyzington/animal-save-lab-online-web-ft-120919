@@ -18,7 +18,7 @@ html {
   right: 300px;
 }
 
-@media only screen and (min-width: 1200px) and (max-width: 1350px) {
+@media only screen and (min-width: 1200px) and (max-width: 1400px) {
   #dolphin {
     position: absolute;
     top: 212px;
