@@ -18,12 +18,12 @@ html {
   right: 300px;
 }
 
-@media only screen and (min-width: 1350px) and (max-width: 1400px) {
+/*@media only screen and (min-width: 1350px) and (max-width: 1400px) {
   #dolphin {
     position: absolute;
     top: 212px;
     right: 300px;
-    transform: rotate(0.75turn);
+    transform: rotate(0.75 turn);
   }
 }
 
@@ -32,7 +32,7 @@ html {
     position: absolute;
     top: 25px;
     right: 300px;
-    transform: rotate(0.5turn);
+    transform: rotate(0.5 turn);
   }
 }
 
@@ -41,6 +41,6 @@ html {
     position: absolute;
     top: 212px;
     right: 300px;
-    transform: rotate(0.25turn);
+    transform: rotate(0.25 turn);
   }
-}
+}*/
