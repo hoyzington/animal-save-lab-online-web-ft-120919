@@ -26,10 +26,10 @@ html {
   }
 }
 
-@media only screen and (min-width: 642px) and (max-width: 1090px) {
+/*@media only screen and (min-width: 642px) and (max-width: 1090px) {
   #dolphin {
     position: absolute;
-    top: 25px;
+    top: 212px;
     right: 0;
   }
 }
@@ -48,4 +48,4 @@ html {
     top: 25px;
     right: 0;
   }
-}
+}*/
